@@ -35,6 +35,3 @@ Navigation/
 8、导航总结页基本完成
 9、整体页面切换按照currentScreen状态变化实现
 10、时间有限 可能存在部分bug
-# Navigation
-# Navigation
-# Navigation
