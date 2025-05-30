@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="location_permission_required">Location permission is required for this app</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="current_location">Current Location</string>
+    <string name="recenter_map">Recenter Map</string>
+    <string name="start_navigation">Start Navigation</string>
+    <string name="destination">Destination</string>
+    <string name="navigation">Navigation</string>
+    <string name="back">Back</string>
+    <string name="navigation_summary">Navigation Summary</string>
+    <string name="navigation_complete">Navigation Complete</string>
+    <string name="back_to_map">Back to Map</string>
+    <string name="total_distance">Total Distance</string>
+    <string name="total_duration">Total Duration</string>
+    <string name="start_point">Start Point</string>
+    <string name="end_point">End Point</string>
+    <string name="gps_signal_normal">GPS Signal Normal</string>
+    <string name="gps_signal_weak">GPS Signal Weak</string>
+    <string name="gps_signal_lost">GPS Signal Lost</string>
+    <string name="gps_signal_strong">GPS Signal strong</string>
+    <string name="complete_navigation_text">Complete Navigation</string>
+</resources>
